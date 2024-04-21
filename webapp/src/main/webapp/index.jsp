@@ -1,7 +1,7 @@
 <div class="container">
   <div class="row header">
     <h1>CONTACT US &nbsp;</h1>
-    <h3>Fill out the form below to learn more!</h3>
+    <h3>Fill out the veera form below to learn more!</h3>
   </div>
   <div class="row body">
     <form action="#">
